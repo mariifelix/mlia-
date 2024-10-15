@@ -16,3 +16,9 @@ font-size: 40px;
 text-transform: uppercase;
 gap: 28px;
 }
+
+.nav-item:hover {
+    cursor:pointer;
+    background-color: blue;
+    color: aliceblue;
+}
